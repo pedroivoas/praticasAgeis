@@ -42,7 +42,7 @@ public class AppTest
     	Poker pokerComparator = new Poker();
     	String ganhardor = pokerComparator.compare(jogador1, jogador2);
     	
-    	assertTrue(ganhardor.equals("Jogador 2"));
+    	assertTrue(ganhardor.equals("Jogador 1"));
     	
     }
     
